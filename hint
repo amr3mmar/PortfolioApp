@@ -1,0 +1,2 @@
+//will add  req.flash('success_msg', 'Succesfuly created Portfolio');
+//in create poertfolio in portfolio controller
